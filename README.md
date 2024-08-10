@@ -10,6 +10,7 @@ This is a template for building a Streamlit application that handles user authen
 
 ## Features
 - User authentication with PostgreSQL database
+- Store the hashed password in database only
 - Navigation among login state, signup state, and app state
 - OTP for email verification
 - Customisation for input fields in signup page
