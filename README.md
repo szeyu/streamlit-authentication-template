@@ -8,12 +8,17 @@
 
 This is a template for building a Streamlit application that handles user authentication and stores user data in a PostgreSQL database. It includes features for navigation among login state, signup state, and app state with authentication through database management.
 
+
 ## Features
-- User authentication with PostgreSQL database
-- Store the hashed password in database only
 - Navigation among login state, signup state, and app state
+- User authentication with PostgreSQL database
+    ![Login page](data/loginpage.png)
+- Store the hashed password in database only
+    ![App page](data/apppage.png)
 - OTP for email verification
+    ![OTP verification](data/otpverification.png)
 - Customisation for input fields in signup page
+    ![Signup page](data/signuppage.png)
 
 ## Prerequisite 
 * Install PostgreSQL
